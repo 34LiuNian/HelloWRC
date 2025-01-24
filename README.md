@@ -1,10 +1,6 @@
 ## 你好 👋
 
-<img src="https://github.com/user-attachments/assets/a3a43276-c654-4af5-bf48-0a309ca3b75c"
-    width="85"
-    alt="光辉矢愿_遨游"/>
-
-我是 HelloWRC，一个高中在读学生。我平时喜欢写一些有意思的小东西。
+我是 34LiuNian，一个高中在读学生。我平时喜欢写一些有意思的小东西。
 
 ## 总览
 
@@ -23,24 +19,7 @@
 
 我创建的/我主要参与的项目：
 
-- **[ClassIsland/ClassIsland ![Stars](https://img.shields.io/github/stars/ClassIsland/ClassIsland?label=Stars)](https://github.com/ClassIsland/ClassIsland/)**
-  <br/>
-  一款适用于班级多媒体屏幕的课表的信息显示工具，可以一目了然地显示各种信息。
-- **[ClassIsland/ManagementServer ![Stars](https://img.shields.io/github/stars/ClassIsland/ManagementServer?label=Stars)](https://github.com/ClassIsland/ManagementServer/)**
-  <br/>
-  ClassIsland 集控服务器。
-
-<details>
-<summary>暂停/停止维护的项目</summary>
-
-这些项目已经暂停或停止维护，不建议再使用了。
-
-- ~~**[HelloWRC/StickyHomeworks ![Stars](https://img.shields.io/github/stars/HelloWRC/StickyHomeworks?label=Stars)](https://github.com/HelloWRC/StickyHomeworks/)**~~
-  <br/>
-  一款支持富文本的桌面作业贴工具。
-- ~~**[HelloWRC/W-DesktopCountdown ![Stars](https://img.shields.io/github/stars/HelloWRC/W-DesktopCountdown?label=Stars)](https://github.com/HelloWRC/W-DesktopCountdown/)**~~
-
-</details>
+待补充
 
 ## 开发
 
@@ -62,20 +41,4 @@
 
 ## 与我联系
 
-- 电子邮件（ClassIsland）：<wrc@classisland.tech>
-- 电子邮件（其它）：<hello_wrc@outlook.com>
-
-<!--
-**HelloWRC/HelloWRC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 电子邮件：<@>
